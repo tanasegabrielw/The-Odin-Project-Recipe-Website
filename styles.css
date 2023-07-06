@@ -1,0 +1,34 @@
+*
+{
+    font-family: "Times New Roman" Tahoma;
+    background-color: rgb(130, 201, 235);
+}
+
+h1
+
+{
+    font-weight: bold;
+    color: white;
+    background-color: purple;
+}
+
+.list
+
+{
+    font-style: italic;
+    font-size: 22px;
+}
+
+p
+
+{
+    font-size: 24px;
+    color: purple;
+}
+
+img
+{
+    width:300px;
+    height: auto;
+
+}
