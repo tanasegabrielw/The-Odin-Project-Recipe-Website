@@ -1,13 +1,70 @@
 *
 {
-    background-color: white;
+
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1
+{
+    display:block;
+    background-color: rgb(15, 11, 224);
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    width:50%;
+    margin-bottom: 0;
+    border: 5px solid rgb(15, 11, 224);
+}
+.under-img
+{
+text-align: center;
 }
 
 .content-page {
 
 display:inline-block;
-background-color: rgb(235, 137, 137);
-border: 5px solid purple;
+background-color: rgb(147, 225, 248);
+border: 5px solid rgb(27, 147, 245);
+width: 50%;
+padding: 10px;
+}
 
+img
+{
+    display: block;
+    width: 400px;
+    height: auto;
+margin-left: auto;
+margin-right: auto;
+    
+}
+
+ul
+{
+    list-style: none;
+
+}
+
+li
+
+{
+    display: inline-block;
+    background-color: rgb(36, 187, 233);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+li a:link,li a:visited {
+
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+li a:hover, li a:active {
+font-weight: bold;
+background-color: rgb(0, 45, 248);
+color:yellow;
 }
