@@ -1,34 +1,13 @@
 *
 {
-    font-family: "Times New Roman" Tahoma;
-    background-color: rgb(130, 201, 235);
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1
+.content-page {
 
-{
-    font-weight: bold;
-    color: white;
-    background-color: purple;
-}
-
-.list
-
-{
-    font-style: italic;
-    font-size: 22px;
-}
-
-p
-
-{
-    font-size: 24px;
-    color: purple;
-}
-
-img
-{
-    width:300px;
-    height: auto;
+display:inline-block;
+background-color: rgb(235, 137, 137);
+border: 5px solid purple;
 
 }
